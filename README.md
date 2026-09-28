@@ -56,8 +56,8 @@ To test, launch the app, allow location access, and wait for a valid GPS altitud
 
 ## URLs to complete
 
-- Privacy Policy URL: `https://YOUR-DOMAIN/privacy/`
-- Support URL: `https://YOUR-DOMAIN/support/`
+- Privacy Policy URL: `https://github.com/abaybuz/privacypolicy.html`
+- Support URL: `https://github.com/abaybuz/support.html`
 - Marketing URL: optional
 
 ## Export compliance
